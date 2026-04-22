@@ -45,4 +45,4 @@ ml-projects/
 ## Contact
 
 Github: [github.com/j-colman](https://github.com/j-colman)
-Email: joshua@joshuacolman.uk
+Email: contact@joshuacolman.uk
