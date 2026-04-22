@@ -18,7 +18,9 @@ ml-projects/
 
 ## Progress
 
-### Hands-On ML
+<details>
+<summary><b>Hands-On ML</b></summary>
+
 - Part I:
 - [ ] Ch 1 - The Machine Learning Landscape
 - [ ] Ch 2 - End-to-End Machine Learning Project
@@ -41,6 +43,8 @@ ml-projects/
 - [ ] Ch 17 - Speeding Up Transformers
 - [ ] Ch 18 - Autoencoders, GANs and Diffusion Models
 - [ ] Ch 19 - Reinforcement Learning
+
+</details>
 
 ## Contact
 
