@@ -18,7 +18,7 @@ ml-projects/
 
 ## Progress
 
-<details>
+<details open>
 <summary><b>Hands-On ML</b></summary>
 
 - Part I:
